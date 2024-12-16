@@ -1,0 +1,1 @@
+# code-wave-day-2-JS-Assignment
